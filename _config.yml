@@ -1,0 +1,10 @@
+title: Noel Kalish
+description: Art commissions, gallery, and contact information.
+url: "https://Noel-Kalish.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+sass:
+  sass_dir: assets/css
+  style: compressed
